@@ -1,6 +1,4 @@
 <fable>
-	<page>
-      <agent>
-      </agent>
+	<page background noite_dark.png>
   </page>
 </fable>
