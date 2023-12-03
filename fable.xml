@@ -2,7 +2,13 @@
     <page background="bg_cemiterio.png" soundtrack="song.wav" >
         <agent text="O pequeno Cavaleiro" font-size="20" color="white" x="20" y="460" width="400" />
         <agent img="chao_cemiterio.png" x="0" y="0" width="500" height="100" />
-        <agent img="ArrowSign.png" x="380" y="93" width="100" height="100" />
+        <agent img="ArrowSign.png" x="380" y="93" width="100" height="100" on-touch="_NEXT_PAGE"/>
         
     </page>
+
+    <page background="bg_deserto.png" soundtrack="song.wav" >
+        <agent text="O pequeno Cavaleiro" font-size="20" color="white" x="20" y="460" width="400" />
+        <agent img="chao_cemiterio.png" x="0" y="0" width="500" height="100" />
+        <agent img="ArrowSign.png" x="380" y="93" width="100" height="100" on-touch="_NEXT_PAGE"/>
+        <agent img="Sign_back.png" x+
 </fable>
