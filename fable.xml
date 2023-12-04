@@ -28,7 +28,7 @@
     </page>
 
     <page background="bg_cemiterio.png" soundtrack="song.wav" >
-        <agent text="O pequeno Cavaleiro" font-size="20" color="white" x="20" y="460" width="400" />
+        <agent text="Morremos a cada dia, a cada dia falta uma parte da vida." font-size="20" color="white" x="20" y="460" width="400" />
         <agent img="chao_cemiterio.png" x="0" y="0" width="500" height="100" />
         <agent img="Sign_back.png" x="20" y="93" width="70" height="70" on-touch="_PREV_PAGE" />
         <agent text="Volte se achar preciso. A vida é uma só, agarre-a com empenho." font-size="15" color="white" x="100" y="105" width="400" />
